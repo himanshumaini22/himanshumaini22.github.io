@@ -10,7 +10,7 @@ This portfolio is designed to demonstrate skills in:
 - Creating interactive, professional dashboards
 - Transforming complex data into actionable insights
 
-## 🚀 Projects
+## Projects
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
